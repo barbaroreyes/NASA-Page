@@ -44,7 +44,9 @@ animation: move  2s ease;
 .box{
 width:270px;
 height: 324px;
-margin: 10px;
+margin: 2rem;
+flex-wrap: wrap;
+
 
 }
 .nav{
@@ -59,23 +61,13 @@ margin: 10px;
      width: 100px;
      height: 30px;
      border-radius:  5px;
-
  }
  .btn:hover{
      background: wheat;
      color: tomato;
  }
- /* @media (max-width:1200px){
-     .container{
-       display: flex;
-       justify-content: center;
-       flex-direction: column;
-     }
-          
- } */
- @media (max-width:400px){
-    
-    
+ @media (max-width:400px){ 
+         . 
  }
  
  @keyframes moveLeft {
