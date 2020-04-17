@@ -74,6 +74,9 @@ margin: 2rem;
           flex-direction: column;
           height: auto;
         } 
+        .box{
+          width: 100%;
+        }
         #text-nsa{
           color: brown;
         }         
